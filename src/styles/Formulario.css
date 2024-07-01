@@ -27,3 +27,7 @@
   color: white;
   text-transform: capitalize;
 }
+
+.tarea-boton:hover{
+  background-color: green;
+}

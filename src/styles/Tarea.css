@@ -24,6 +24,10 @@
     background-color: #3b3b4f;
 }
 
+.tarea-contenedor:hover{
+    background-color: #5a01a7;
+}
+
 .tarea-texto{
     width: 100%;
     height: 100%;
