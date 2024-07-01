@@ -35,7 +35,7 @@ function Formulario(props) {
         onChange={manejarCambio}
       />
       <button className="tarea-boton">
-        Agregar Tarea
+        Add Task
       </button>
     </form>
   );
